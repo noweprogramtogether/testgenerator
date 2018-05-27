@@ -85,6 +85,7 @@ void leggifile(dmate[][], dfis[][]), rmat[][], rfis[][]) //FUNZIONE CHE LEGGE I 
        fgets(char rfis[i], 100, FILE pfrf);	  //leggo le risposte di fisica mediante il puntatore al file che contiene la lista medesima	
 	}
 	
+	return;
 }
 
 
