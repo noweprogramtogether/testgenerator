@@ -1,10 +1,10 @@
-1)
-2)
-3)
-4)
-5)
-6)
-7)
-8)
-9)
-10)
+1)Quanto fa 2+2?
+2)Quanto fa 2*2?
+3)Quanto fa 2-2?
+4)Quanto fa 2/2?
+5)Quanto fa 2+2+2?
+6)Quanto fa 2-2-2?
+7)Quanto fa 2*2*2?
+8)Quanto fa 2/2/2?
+9)Quanto fa 3+3?
+10)Quanto fa 4+4?
