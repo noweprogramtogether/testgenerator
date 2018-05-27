@@ -9,8 +9,7 @@ int main()
 	int ndf; //numero di domande di fisica
 	
 	void chiedinumerodomande(int*, int*);
-	
-	
+	chiedinumerodomande(&ndm, &ndf);
 	
 
 	return 0;
@@ -19,7 +18,7 @@ int main()
 
 
 
-void chiedinumerodomande()  //FUNZIONE CHE CHIEDE IL NUMERO DI DOMANDE DA SOMMINISTRARE ALL'UTENTE PER OGNI MATERIA
+void chiedinumerodomande(numeromate, numerofis)  //FUNZIONE CHE CHIEDE IL NUMERO DI DOMANDE DA SOMMINISTRARE ALL'UTENTE PER OGNI MATERIA
 {
 	printf("\n Inserisci il numero di domande di matematica:"); //chiedo all'utente quante domande somministrare di matematica
 	scanf("%d", numeromate);                                          //leggo il numero di domande di matematica da somministrare all'utente
