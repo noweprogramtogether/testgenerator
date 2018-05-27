@@ -1,2 +1,2 @@
-# webdataextract
-Programma per l'estrapolazione di dati contenuti in tabelle presenti in pagine HTML
+# testgenerator
+Programma di generazione di test casuali
