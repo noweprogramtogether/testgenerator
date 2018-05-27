@@ -1,10 +1,10 @@
-1)
-2)
-3)
-4)
-5)
-6)
-7)
-8)
-9)
-10)
+1)Se viaggo a 30Km/h, quanta strada percorro in un'ora?
+2)Se viaggo a 30Km/h, quanta strada percorro in due ore?
+3)Se viaggo a 30Km/h, quanta strada percorro in tre ore?
+4)Se viaggo a 30Km/h, quanta strada percorro in quattro ore?
+5)Se viaggo a 30Km/h, quanta strada percorro in cinque ore?
+6)Se viaggo a 60Km/h, quanta strada percorro in un'ora?
+7)Se viaggo a 60Km/h, quanta strada percorro in due ore?
+8)Se viaggo a 60Km/h, quanta strada percorro in tre ore?
+9)Se viaggo a 60Km/h, quanta strada percorro in quattro ore?
+10)Se viaggo a 60Km/h, quanta strada percorro in cinque ore?
